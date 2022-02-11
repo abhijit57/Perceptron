@@ -1,6 +1,9 @@
 # Perceptron
 Implementation of perceptron from scratch using python
 
+![image](https://user-images.githubusercontent.com/44730823/153543837-5db25010-07d8-4e88-8a10-9be29007a3be.png)
+
+
 A perceptron is a fundamental unit of the neural network which takes weighted inputs, processes it and is capable of performing binary classifications. In the perceptron model inputs can be real numbers unlike the boolean inputs in MP neuron model. The output from the model will still be binary {0,1}, The perceptron model takes the input x if the weighted sum of the inputs is greater than threshold b and output will be 1 else output will be 0.
 
 
